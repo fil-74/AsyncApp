@@ -19,7 +19,7 @@ namespace AsyncApp
                     Console.Write("-");
 
                 Console.WriteLine("\nИспользование потока данных:");
-                UsingDataFlow(5);
+                UsingDataFlow();
             }
             catch (Exception e)
             {
